@@ -1,1 +1,1 @@
-# Girls-Who-Code
+# GWC_Final_Project
